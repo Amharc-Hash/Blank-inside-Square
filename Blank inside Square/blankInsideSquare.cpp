@@ -10,7 +10,7 @@ int main()
 		{
 			if (j>=2 && j<=x-1 && i>=2 && i<=x-1)
 			{
-			printf(" ");
+				printf(" ");
 			}
 			else
 			{
